@@ -1,0 +1,10 @@
+obj\Debug\CountDown.exe
+obj\Debug\CountDown.xml
+obj\Debug\CountDown.pdb
+bin\Debug\CountDown.exe
+bin\Debug\CountDown.pdb
+bin\Debug\CountDown.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CountDown.Form1.resources
+obj\Debug\CountDown.Resources.resources
+obj\Debug\CountDown.vbproj.GenerateResource.Cache
